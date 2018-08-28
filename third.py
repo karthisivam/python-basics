@@ -1,0 +1,8 @@
+print ('welcome to python programming')
+print ('enter your name : ')
+name = input()
+print ('enter your age : ')
+age = input()
+print ('your age will be '+ str(int(age)+1)+ ' ina year')
+print ('the length of your name is : ')
+print (len(name))
